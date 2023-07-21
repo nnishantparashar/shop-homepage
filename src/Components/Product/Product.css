@@ -1,0 +1,46 @@
+.card {
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 220px;
+    height: 45vh;
+    margin: 10px;
+    text-align: center;
+    font-family: arial;
+    
+  }
+.product-img{
+    width: 220px;
+}
+
+.rating{
+    margin: 2px;
+    padding: 2px;
+}
+
+.rating-icon{
+    width:12px;
+    height:1vh
+}
+
+.card-body h4{
+    margin: 2px;
+}
+
+.card-body p{
+    margin: 2px;
+    padding: 2px;
+    font-size: 12px;
+}
+
+.addRemoveButton{
+    background: none;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.original-price{
+    text-decoration: line-through;
+    opacity: 0.7;
+}
